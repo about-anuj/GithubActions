@@ -9,4 +9,8 @@ jobs:
         with:
           python-version: '3.10' 
       - run: python my_script.py
+<<<<<<< HEAD
       - run: pwdgi
+=======
+      - run: pwd
+>>>>>>> ce10522754d0dd03602eddbd74c6e55dd17b2672
