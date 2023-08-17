@@ -15,3 +15,5 @@ jobs:
           date
           pwd
           ls
+      - name: Version 12
+        run: echo V12
